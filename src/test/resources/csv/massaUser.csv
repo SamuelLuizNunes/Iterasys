@@ -1,0 +1,10 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+3970513,juliete,Julieta,Souza,julieta.souza@example.com,abcdef,11998765432,0
+3970514,roberto,Roberto,Pereira,roberto.p@example.com,pass1234,11987654321,0
+3970515,marcia,Marcia,Lima,marcia.lima@example.com,qwerty123,11976543210,0
+3970516,luan,Luan,Ribeiro,luan.ribeiro@example.com,1234abcd,11965432109,0
+3970517,vanessa,Vanessa,Silva,vanessa.silva@example.com,password1,11954321098,0
+3970518,pedro,Pedro,Almeida,pedro.almeida@example.com,senha123,11943210987,0
+3970519,larissa,Larissa,Carvalho,larissa.c@example.com,larissa123,11932109876,0
+3970520,felipe,Felipe,Castro,felipe.castro@example.com,felipecastro,11921098765,0
+3970521,marcio,Marcio,Santos,marcio.santos@example.com,senha456,11910987654,0
