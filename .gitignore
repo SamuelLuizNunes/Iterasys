@@ -12,6 +12,7 @@ target/
 *.iml
 *.ipr
 .idea
+src/test/resources/saucelabs.properties
 
 ### Eclipse ###
 .apt_generated
